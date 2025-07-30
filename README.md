@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Christian De Guzman</h1>
-<h3 align="center">A passionate cs student for breaking into software engineering and data analysts</h3>
+<h3 align="center">A passionate cs student for breaking into software engineering and data science</h3>
 
-- 🔭 I’m currently working on **NBA MVP predictor**
+- 🔭 I’m currently figurging out the next project to work on 
 
-- 🌱 I’m currently learning **SQL & PHP**
+- 🌱 I’m currently learning **Machine LearningP**
 
 - 👯 I’m looking to connect on **LinkedIn**
 
