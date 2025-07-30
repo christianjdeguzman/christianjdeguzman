@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently figurging out the next project to work on 
 
-- 🌱 I’m currently learning **Machine LearningP**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to connect on **LinkedIn**
 
