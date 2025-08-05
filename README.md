@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Christian De Guzman</h1>
 <h3 align="center">A passionate cs student for breaking into software engineering and data science</h3>
 
-- 🔭 I’m currently figurging out the next project to work on 
+- 🔭 I’m currently working on a NBA Game Win Probability Model
 
 - 🌱 I’m currently learning **Machine Learning**
 
