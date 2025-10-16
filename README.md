@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Christian De Guzman</h1>
 <h3 align="center">A passionate cs student for breaking into software engineering and data science</h3>
 
-- 🔭 I’m currently working on a NBA Game Win Probability Model
+- 🔭 I’m currently working on a Spotify Wrapped Dashboard
 
 - 🌱 I’m currently learning **Machine Learning**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **christianjdguzman@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/christian-justin-de-guzman-919a68293/](https://www.linkedin.com/in/christian-justin-de-guzman-919a68293/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/christian-de-guzman-919a68293/](https://www.linkedin.com/in/christian-justin-de-guzman-919a68293/)
 
 - ⚡ Fun fact **I love analytics revolving around sports**
 
