@@ -6,10 +6,10 @@
 ---
 
 ## 🚀 About Me
-- 🎓 **CS + Business @ NJIT** (Class of 2027)  
-- 💼 Incoming **Technology Developer Analyst Intern @ Barclays**  
-- 🏀 Current **NBA Future Analytics Star (Selected from 2,400 applicants)**
+- 🎓 **CS + Business @ NJIT** (Class of 2027)
 - 💼 Current **AI/ML Fellow @ Break Through Tech - Backed by Cornell Tech**
+- 💼 Previous **Technology Developer Analyst Intern @ Barclays**  
+- 🏀 Previous **NBA Future Analytics Star (Selected from 2,400 applicants)**
 - 💼 Former **Software Engineer Intern @ PNC Bank**
 - 🔬 Currently building: **NBA Rookie of the Year Prediction Model (ML)**  
 - 🌱 Learning: **Machine Learning, Advanced Data Science, Model Evaluation**  
